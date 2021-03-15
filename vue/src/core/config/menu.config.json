@@ -1,0 +1,24 @@
+{
+  "header": {
+    "self": {},
+    "items": [
+      {
+        "title": "Dashboards",
+        "root": true,
+        "page": "dashboard",
+        "translate": "MENU.DASHBOARD"
+      } 
+    ]
+  },
+  "aside": {
+    "self": {},
+    "items": [
+      {
+        "title": "Dashboards",
+        "root": true,
+        "page": "dashboard",
+        "translate": "MENU.DASHBOARD"
+      }
+    ]
+  }
+}
